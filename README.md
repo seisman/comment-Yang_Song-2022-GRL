@@ -1,4 +1,4 @@
-# Comment on "Inner Core Rotation Captured by Earthquake Doublets and Twin Stations" by Yang & Song
+# Comment on "Inner Core Rotation Captured by Earthquake Doublets and Twin Stations" by Yang and Song
 
 ## Abstract
 
@@ -39,10 +39,10 @@ This repository contains the data and scripts used in Tian & Wen (2023).
 - **Original Paper**:
   Yang, Y., & Song, X. (2022).
   Inner Core Rotation Captured by Earthquake Doublets and Twin Stations.
-  *Geophysical Research Letters*, 49(12).
+  *Geophysical Research Letters*, 49(12), e2022GL098393.
   https://doi.org/10.1029/2022GL098393
 - **Comment**:
   Tian, D., & Wen, L. (2023).
-  Comment on "Inner Core Rotation Captured by Earthquake Doublets and Twin Stations" by Yang & Song.
-  *Geophysical Research Letters*.
-  *Accepted*
+  Comment on "Inner Core Rotation Captured by Earthquake Doublets and Twin Stations" by Yang and Song.
+  *Geophysical Research Letters*, 50(15), e2023GL103173.
+  https://doi.org/10.1029/2023GL103173
