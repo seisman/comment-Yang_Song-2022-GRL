@@ -46,3 +46,8 @@ This repository contains the data and scripts used in Tian & Wen (2023).
   Comment on "Inner Core Rotation Captured by Earthquake Doublets and Twin Stations" by Yang and Song.
   *Geophysical Research Letters*, 50(15), e2023GL103173.
   https://doi.org/10.1029/2023GL103173
+- **Reply**:
+  Yang, Y., & Song, X. (2023).
+  Misinterpreted seismic evidence for localized rapid changes of the inner core boundary surface.
+  *Geophysical Research Letters*, 50(15), e2023GL104728.
+  https://doi.org/10.1029/2023GL104728
