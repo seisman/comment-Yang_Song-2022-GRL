@@ -1,5 +1,7 @@
 # Comment on "Inner Core Rotation Captured by Earthquake Doublets and Twin Stations" by Yang and Song
 
+**Dongdong Tian** and **Lianxing Wen**
+
 ## Abstract
 
 [Yang & Song (2022)](https://doi.org/10.1029/2022GL098393)
